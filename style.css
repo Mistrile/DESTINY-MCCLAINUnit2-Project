@@ -1,0 +1,65 @@
+h1{
+    text-align:center;
+  color:antiquewhite;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:300px;
+}
+
+
+h2{
+    text-align:center;
+  color:antiquewhite;
+}
+
+
+.buttonsContainer{
+    display:flex;
+    justify-content:space-between;
+}
+
+
+.section{
+    border: 3px white;
+    margin:3px;
+}
+
+body{background-color:blueviolet;}
+
+.button1 {
+    background-color: #8880f4; 
+    padding-left:10px;
+    padding-right:10px; 
+    border-style: ridge; 
+    border-color: #384e7a; 
+    border-width: 5px;
+display: block; box-sizing: content-box; width: 100px; text-align: center;
+}
+
+.button2 {
+    background-color: #8880f4; 
+    padding-left:10px;
+    padding-right:10px; 
+    border-style: ridge; 
+    border-color: #384e7a; 
+    border-width: 5px;
+display: block; box-sizing: content-box; width: 100px; text-align: center;
+}
+
+.button3 {
+    background-color: #8880f4; 
+    padding-left:10px;
+    padding-right:10px; 
+    border-style: ridge; 
+    border-color: #384e7a; 
+    border-width: 5px;
+display: block; box-sizing: content-box; width: 100px; text-align: center;
+}
+
+.button4 {
+    width: 50px; text-align: center;
+}
